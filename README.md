@@ -1,6 +1,8 @@
 ## Bash Study Book
 Interactive Bash Studybook Script / Интерактивный bash-скрипт-учебник
 
+[screenshot.png](screenshot.png)
+
 ## What is this
 Bash study book is interactive script that you run and learn all the basic linux bash commands. You can even show this script to your audience with projector or screen.
 
