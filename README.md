@@ -15,6 +15,7 @@ Bash study book is interactive script that you run and learn all the basic linux
 * Installed `toilet` package (ubuntu: `sudo apt install toilet`, arch: `pacman -S toilet`) - this package is used to draw some console graphics
 
 ## Future
+* Translate to english (and other?) languages
 * Improve/add commands and/or categories to the studybook
 * Test on different distributions
 * Your ideas?
